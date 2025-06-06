@@ -1,0 +1,16 @@
+a = (23,234,"heheehehheh")
+print(a)
+print(a[2])
+print(a.count(23))
+print(a.index(23))
+print(a*2)
+print(2 in a)
+print(23 in a)
+print(len(a))
+b = (91,2,3,41)
+print(max(b))
+print(min(b))
+
+my_tuple =(1,2,3)
+a,b,c = my_tuple
+print(a,b,c)
